@@ -4,3 +4,4 @@ function main()
 }
 
 main();
+console.log(loadJSONFromFile('data/data.json'));
